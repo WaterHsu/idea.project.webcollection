@@ -1,0 +1,92 @@
+#xpf_first_manage_bg
+{
+	display:none;
+	position:absolute;
+	top:0;
+	left:0;
+	height:1300px;
+	width:100%;
+	z-index:200;
+	background:#000000;
+	filter:alpha(opacity=30);
+	-moz-opacity:0.3;
+	opacity:0.3;
+}
+
+#xpf_first_kind_add
+{
+	position:absolute;
+	top:25%;
+	left:40%;
+	width:400px;
+	z-index:210;
+	height:200px;
+	background:#ffffff;
+}
+
+#xpf_first_kind_change
+{
+	position:absolute;
+	top:25%;
+	left:40%;
+	width:400px;
+	z-index:210;
+	height:400px;
+	background:#ffffff;
+}
+
+#xpf_first_web_add
+{
+	position:absolute;
+	top:75%;
+	left:40%;
+	width:400px;
+	z-index:210;
+	height:300px;
+	background:#ffffff;
+}
+
+#xpf_first_manage_manage_total
+{
+	background:#efefef;
+	height:1300px;
+	width:100%;
+	margin:0px auto;
+}
+
+#xpf_first_manage_manage_total_head
+{
+	background:#454545;
+	height:30px;
+	width:100%
+}
+
+#xpf_first_manage_manage_total_body
+{
+	background:#676767;
+	height:1200px;
+	width:100%
+}
+	#xpf_first_manage_manage_total_body_kind
+	{
+		height:600px;
+		width:100%;
+		background:#5e82c7;
+		overflow:scroll;
+	}
+	
+	#xpf_first_manage_manage_total_body_web
+	{
+		height:600px;
+		width:100%;
+		background:#742f83;
+		overflow:scroll;
+	}
+
+
+#xpf_first_manage_manage_total_foot
+{
+	background:#54e675;
+	height:70px;
+	width:100%
+}
